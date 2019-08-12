@@ -1,4 +1,16 @@
 # organization-checklist
+The purpose of this project is to help the local Vue.js Community to contribute with open source projects.
+
+Promoving the learning of best practices of open source development and best practices of developing Vue.js SPA applications!
+
+The project aims to organize the Vue.js meetups.
+
+### Customize configuration
+The configuration of this project is: 
+- ESLint + Prettier (on save + fix after commit)
+- Tests Jest and Cypress
+- Babel
+- Sass/Scss
 
 ## Project setup
 ```
@@ -35,5 +47,3 @@ npm run test:e2e
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
