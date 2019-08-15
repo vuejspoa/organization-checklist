@@ -1,5 +1,5 @@
 # organization-checklist
-The purpose of this project is to help the local Vue.js Community to contribute with open source projects.
+The purpose of this project is to help the local Vue.js Community to contribute with open source in a REAL PROJECT.
 
 Promoving the learning of best practices of open source development and best practices of developing Vue.js SPA applications!
 
